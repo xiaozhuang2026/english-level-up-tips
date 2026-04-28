@@ -1,0 +1,19 @@
+# Summary
+
+### Part I
+
+* [1.认知篇](docs/threads/part-1/1-understanding.md)
+* [2.单词篇](docs/threads/part-1/2-vocabulary.md)
+* [3.听力篇](docs/threads/part-1/3-listening.md)
+* [4.阅读篇](docs/threads/part-1/4-reading.md)
+* [5.口语篇](docs/threads/part-1/5-speaking.md)
+
+
+### Part II
+
+* [8.扯淡篇](docs/threads/part-2/x-misc.md)
+
+### Part IV
+
+* [我的故事](docs/threads/part-2/my-story.md)
+* [Week 1](docs/threads/part-4/week-1.md)
